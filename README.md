@@ -1,2 +1,2 @@
-# Data-Science---Machine-Learning
+# DataScience---MachineLearning
 Machine Learning
